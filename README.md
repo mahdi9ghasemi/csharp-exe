@@ -1,6 +1,4 @@
 # Free And Open Source App
-The Horror Application Programing By Mahdi Ghasemi
-
 How To Use Source Code On vscode:
 
 1. install git
