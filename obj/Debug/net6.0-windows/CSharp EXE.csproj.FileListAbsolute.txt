@@ -1,0 +1,15 @@
+C:\Users\eslam\Videos\CSharp EXE\bin\Debug\net6.0-windows\CSharp EXE.exe
+C:\Users\eslam\Videos\CSharp EXE\bin\Debug\net6.0-windows\CSharp EXE.deps.json
+C:\Users\eslam\Videos\CSharp EXE\bin\Debug\net6.0-windows\CSharp EXE.runtimeconfig.json
+C:\Users\eslam\Videos\CSharp EXE\bin\Debug\net6.0-windows\CSharp EXE.dll
+C:\Users\eslam\Videos\CSharp EXE\bin\Debug\net6.0-windows\CSharp EXE.pdb
+C:\Users\eslam\Videos\CSharp EXE\obj\Debug\net6.0-windows\CSharp EXE.csproj.AssemblyReference.cache
+C:\Users\eslam\Videos\CSharp EXE\obj\Debug\net6.0-windows\CSharp EXE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eslam\Videos\CSharp EXE\obj\Debug\net6.0-windows\CSharp EXE.AssemblyInfoInputs.cache
+C:\Users\eslam\Videos\CSharp EXE\obj\Debug\net6.0-windows\CSharp EXE.AssemblyInfo.cs
+C:\Users\eslam\Videos\CSharp EXE\obj\Debug\net6.0-windows\CSharp EXE.csproj.CoreCompileInputs.cache
+C:\Users\eslam\Videos\CSharp EXE\obj\Debug\net6.0-windows\CSharp EXE.dll
+C:\Users\eslam\Videos\CSharp EXE\obj\Debug\net6.0-windows\refint\CSharp EXE.dll
+C:\Users\eslam\Videos\CSharp EXE\obj\Debug\net6.0-windows\CSharp EXE.pdb
+C:\Users\eslam\Videos\CSharp EXE\obj\Debug\net6.0-windows\CSharp EXE.genruntimeconfig.cache
+C:\Users\eslam\Videos\CSharp EXE\obj\Debug\net6.0-windows\ref\CSharp EXE.dll
